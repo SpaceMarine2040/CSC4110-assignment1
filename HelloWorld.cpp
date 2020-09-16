@@ -1,5 +1,7 @@
 // Simple C++ program to display "Hello World" 
 // Header file for input output functions 
+// Author: Christopher Collins <cq7409@wayne.edu>
+
 #include<iostream>  
   
 using namespace std; 
